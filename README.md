@@ -1,5 +1,5 @@
 # Form Template
-*********
+
 # Screenshot
 <img src="FORM.png">
 <br>
